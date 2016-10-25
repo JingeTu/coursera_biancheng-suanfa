@@ -6,3 +6,6 @@
 //#include "c-chengxu-sheji/week5/No1_jisuanjuzhenbianyuanyuanshuzhihe.cpp"
 //#include "c-chengxu-sheji/week5/No2_erweishuzuyoushangzuoxiabianli.cpp"
 //#include "c-chengxu-sheji/week5/No3_wenzipaiban.cpp"
+//#include "c-chengxu-sheji/week6/No1_fenpeibingfang.cpp"
+//#include "c-chengxu-sheji/week6/No2_peiduijianjilian.cpp"
+//#include "c-chengxu-sheji/week6/No3_xunzhaoshanding.cpp"
