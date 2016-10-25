@@ -1,1 +1,5 @@
-#include "jisuanji-biancheng/week5/No1_jingjingfuyuehui.cpp"
+//#include "jisuanji-biancheng/week5/No1_jingjingfuyuehui.cpp"
+//#include "jisuanji-biancheng/week5/No2_jishuqiuhe.cpp"
+//#include "jisuanji-biancheng/week5/No3_zhengshudegeshu.cpp"
+//#include "jisuanji-biancheng/week5/No4_1degeshu.cpp"
+//#include "jisuanji-biancheng/week5/No5_shuzunixuchongfang.cpp"
