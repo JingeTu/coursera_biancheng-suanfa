@@ -21,3 +21,7 @@
 //#include "suanfa-jichu/week4/Ex_guangaicaochang.cpp"
 //#include "suanfa-jichu/week4/No1_jihejiafa.cpp"
 //#include "suanfa-jichu/week4/No2_huaxue.cpp"
+//#include "suanfa-jichu/week5/Ex_zuichangshangshengzixulie.cpp"
+//#include "suanfa-jichu/week5/Ex_fangheyouxi.cpp"
+//#include "suanfa-jichu/week5/No1_UnimodalPalindromicDecompositions.cpp"
+//#include "suanfa-jichu/week5/No2_CharmBracelet.cpp"
